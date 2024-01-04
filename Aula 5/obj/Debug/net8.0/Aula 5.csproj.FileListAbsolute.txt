@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\bin\Debug\net8.0\Aula 5.exe
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\bin\Debug\net8.0\Aula 5.deps.json
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\bin\Debug\net8.0\Aula 5.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\bin\Debug\net8.0\Aula 5.dll
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\bin\Debug\net8.0\Aula 5.pdb
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\Aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\Aula 5.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\Aula 5.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\Aula 5.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\Aula 5.dll
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\refint\Aula 5.dll
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\Aula 5.pdb
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\Aula 5.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\Dev\.NET\Curso DIO .NET\Aula 5\obj\Debug\net8.0\ref\Aula 5.dll
